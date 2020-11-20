@@ -13,5 +13,11 @@ Optimize Slpk Size工具：
 1，输入slpk所在的文件夹路径即可，支持批量执行
 2，输出的slpk在同一文件夹下，以原始slpk名称+_tar结尾命名。
 
+
 tips: 
 1，以上工具针对Pro 2.6以及I3S 1.7版本
+
+传统obj通过Import 3D files导入Pro后变暗，而Quick Import工具导入正常的问题，可以使用Optimize Obj工具。
+Optimize Obj工具：
+输入obj所在的文件夹路径即可，可以批量处理。该工具不涉及Pro版本，都可以用。
+
