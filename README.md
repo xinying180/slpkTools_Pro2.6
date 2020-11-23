@@ -17,7 +17,6 @@ Optimize Slpk Size工具：
 tips: 
 以上工具针对Pro 2.6以及I3S 1.7版本
 
-传统obj通过Import 3D files导入Pro后变暗，而Quick Import工具导入正常的问题，可以使用Optimize Obj工具。
-Optimize Obj工具：
-输入obj所在的文件夹路径即可，可以批量处理。该工具不涉及Pro版本，都可以用。
+传统obj模型通过Import 3D files导入Pro后变暗或者纹理丢失，而Quick Import工具导入正常的问题，可以使用Optimize Obj工具。 
+Optimize Obj工具： 输入obj所在的文件夹路径即可，可以批量处理。该工具不涉及Pro版本。
 
